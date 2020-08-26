@@ -1,0 +1,9 @@
+iniciar el packet jsons 
+npm init
+
+instalacion de dependencias
+npm install express --save 
+npm install socket.io --save
+npm install nodemon -D
+
+npm start
